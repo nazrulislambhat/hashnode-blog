@@ -1,8 +1,10 @@
 ---
-title: "Props in React - Explained"
+title: "React Props Made Easy: A Comprehensive Explanation"
+seoTitle: "Simplified React Props: In-Depth Guide"
+seoDescription: "Master React props: learn syntax, data flow, and practical applications for dynamic, reusable components in web development"
 datePublished: Mon Jul 24 2023 04:46:10 GMT+0000 (Coordinated Universal Time)
 cuid: clkgdxy4i000109mwhual4us0
-slug: props-in-react-explained
+slug: react-props-made-easy-a-comprehensive-explanation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690526194920/ec79b6b3-517a-4a5d-95b6-41d5af44883d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690526381252/39927f99-9803-4783-a210-0ce6afe54eb8.jpeg
 tags: reactjs, props, props-in-reactjs
