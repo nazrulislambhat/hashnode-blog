@@ -3,7 +3,7 @@ title: "Props in React"
 datePublished: Mon Jul 24 2023 04:46:10 GMT+0000 (Coordinated Universal Time)
 cuid: clkgdxy4i000109mwhual4us0
 slug: props-in-react
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690173832874/7c9e7073-a20c-4974-8845-d69f95daf810.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690526194920/ec79b6b3-517a-4a5d-95b6-41d5af44883d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690173959511/2f5c21f3-260c-4987-8fba-84a7872aee20.webp
 tags: reactjs, props, props-in-reactjs
 
