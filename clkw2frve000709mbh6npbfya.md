@@ -35,7 +35,7 @@ npm install gulp gulp-sass node-sass gulp-concat --save-dev
     
 
 ```javascript
-javascriptCopy code'use strict';
+'use strict'
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var concat = require('gulp-concat');
@@ -56,7 +56,7 @@ gulp.task('sass', function () {
     
 
 ```javascript
-jsonCopy code"scripts": {
+"scripts": {
    "scss": "gulp sass"
 },
 ```
