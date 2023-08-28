@@ -7,6 +7,7 @@ cuid: cllugly5q00030al58gr86uer
 slug: react-hooks-explained
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693201702863/069490a8-2638-45dc-8c7a-e593d715623d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693201708444/c34b543c-be17-4b44-adf8-a38007583687.jpeg
+tags: reactjs, hooks, react-hooks, usestate
 
 ---
 
